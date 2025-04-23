@@ -1,4 +1,4 @@
-@MeassuringAppWebPage_HostAddress = http://20.206.176.9
+@MeassuringAppWebPage_HostAddress = http://carrinho-do-cabeca-bzdsgjc3fzdbb4b6.brazilsouth-01.azurewebsites.net
 
 # Você pode alternar entre o endereço local e o endereço do Azure SignalR descomentando a linha apropriada
 # @MeassuringAppWebPage_HostAddress = https://seu-servico-signalr.service.signalr.net
