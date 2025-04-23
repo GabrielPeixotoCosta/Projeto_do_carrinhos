@@ -1,0 +1,23 @@
+@MeassuringAppWebPage_HostAddress = http://192.168.100.13:5001
+
+# Você pode alternar entre o endereço local e o endereço do Azure SignalR descomentando a linha apropriada
+# @MeassuringAppWebPage_HostAddress = https://seu-servico-signalr.service.signalr.net
+
+# Teste básico da API
+GET {{MeassuringAppWebPage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+# Teste de conexão com o hub SignalR
+# Este endpoint será usado pelo cliente para estabelecer a conexão WebSocket
+# GET {{MeassuringAppWebPage_HostAddress}}/sensordatahub/negotiate
+# Accept: application/json
+
+###
+
+# NOTA: Para integração com Azure SignalR Service:
+# 1. Obtenha sua string de conexão no portal do Azure após criar um serviço Azure SignalR
+# 2. Adicione a string no Program.cs conforme indicado nos comentários
+# 3. Descomente a linha com o endereço do Azure SignalR acima
+# 4. Formato da string de conexão: Endpoint=https://your-signalr-service.service.signalr.net;AccessKey=your-access-key;Version=1.0;
