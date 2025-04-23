@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/ZdaWdAQNcXFPEz52pnMQEEvu7ZUkp+tdditXICLW1s=",
+  "Hash": "lDixHNtxAr1mXeCPNPJLqXGUEIderoxFyN02cJ4YS4w=",
   "Source": "MeassuringAppWebPage",
   "BasePath": "_content/MeassuringAppWebPage",
   "Mode": "Default",
@@ -10,87 +10,425 @@
     {
       "Name": "MeassuringAppWebPage\\wwwroot",
       "Source": "MeassuringAppWebPage",
-      "ContentRoot": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\",
       "BasePath": "_content/MeassuringAppWebPage",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\css\\styles.css",
       "SourceId": "MeassuringAppWebPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\",
       "BasePath": "_content/MeassuringAppWebPage",
-      "RelativePath": "css/styles.css",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "2d6ikczok6",
+      "Integrity": "tmRu8480N7gEKx/HbB4N6zoiximWhXmFYXM7f4B4hEc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\index.html",
       "SourceId": "MeassuringAppWebPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\",
       "BasePath": "_content/MeassuringAppWebPage",
-      "RelativePath": "index.html",
+      "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "pxze9g3wh4",
+      "Integrity": "bcZBhYNFDZBaWAUWpzv7CB64ABPx4/6tsz+C9aYQSVE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\js\\controls.js",
+      "Identity": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\controls.js",
       "SourceId": "MeassuringAppWebPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\",
       "BasePath": "_content/MeassuringAppWebPage",
-      "RelativePath": "js/controls.js",
+      "RelativePath": "js/controls#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "03nxjbffnj",
+      "Integrity": "HKJOcAm1i0kNgd1wyj5sVuJlFg6zZ3eNO8MwuzkF0TQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\controls.js"
     },
     {
-      "Identity": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\js\\sensors.js",
+      "Identity": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\sensors.js",
       "SourceId": "MeassuringAppWebPage",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\",
       "BasePath": "_content/MeassuringAppWebPage",
-      "RelativePath": "js/sensors.js",
+      "RelativePath": "js/sensors#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "1vtq5gcx90",
+      "Integrity": "U4HeQcEwaBiPfBu4uflZorM3ZvTpJJIBpwEJUfwiscw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\sensors.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.2d6ikczok6.css",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmRu8480N7gEKx/HbB4N6zoiximWhXmFYXM7f4B4hEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2d6ikczok6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmRu8480N7gEKx/HbB4N6zoiximWhXmFYXM7f4B4hEc="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3976"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tmRu8480N7gEKx/HbB4N6zoiximWhXmFYXM7f4B4hEc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tmRu8480N7gEKx/HbB4N6zoiximWhXmFYXM7f4B4hEc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcZBhYNFDZBaWAUWpzv7CB64ABPx4/6tsz+C9aYQSVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:50:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcZBhYNFDZBaWAUWpzv7CB64ABPx4/6tsz+C9aYQSVE="
+        }
+      ]
+    },
+    {
+      "Route": "index.pxze9g3wh4.html",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20440"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcZBhYNFDZBaWAUWpzv7CB64ABPx4/6tsz+C9aYQSVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:50:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxze9g3wh4"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcZBhYNFDZBaWAUWpzv7CB64ABPx4/6tsz+C9aYQSVE="
+        }
+      ]
+    },
+    {
+      "Route": "js/controls.03nxjbffnj.js",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\controls.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HKJOcAm1i0kNgd1wyj5sVuJlFg6zZ3eNO8MwuzkF0TQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "03nxjbffnj"
+        },
+        {
+          "Name": "label",
+          "Value": "js/controls.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HKJOcAm1i0kNgd1wyj5sVuJlFg6zZ3eNO8MwuzkF0TQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/controls.js",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\controls.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HKJOcAm1i0kNgd1wyj5sVuJlFg6zZ3eNO8MwuzkF0TQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HKJOcAm1i0kNgd1wyj5sVuJlFg6zZ3eNO8MwuzkF0TQ="
+        }
+      ]
+    },
+    {
+      "Route": "js/sensors.1vtq5gcx90.js",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\sensors.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U4HeQcEwaBiPfBu4uflZorM3ZvTpJJIBpwEJUfwiscw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1vtq5gcx90"
+        },
+        {
+          "Name": "label",
+          "Value": "js/sensors.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U4HeQcEwaBiPfBu4uflZorM3ZvTpJJIBpwEJUfwiscw="
+        }
+      ]
+    },
+    {
+      "Route": "js/sensors.js",
+      "AssetFile": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\sensors.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U4HeQcEwaBiPfBu4uflZorM3ZvTpJJIBpwEJUfwiscw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 18 Apr 2025 23:58:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U4HeQcEwaBiPfBu4uflZorM3ZvTpJJIBpwEJUfwiscw="
+        }
+      ]
     }
   ]
 }

@@ -1,20 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\index.html",
+      "Id": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\js\\controls.js",
+      "Id": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\controls.js",
       "PackagePath": "staticwebassets\\js\\controls.js"
     },
     {
-      "Id": "C:\\Users\\gabri\\Desktop\\MeassuringAppWebPage\\wwwroot\\js\\sensors.js",
+      "Id": "C:\\Users\\Gabriel Peixoto\\Downloads\\MeassuringAppWebPage_SDG\\MeassuringAppWebPage_SDG\\wwwroot\\js\\sensors.js",
       "PackagePath": "staticwebassets\\js\\sensors.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MeassuringAppWebPage.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MeassuringAppWebPage.Microsoft.AspNetCore.StaticWebAssets.props",
