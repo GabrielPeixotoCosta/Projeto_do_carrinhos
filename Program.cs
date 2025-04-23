@@ -31,12 +31,12 @@ namespace MeassuringAppWebPage
             var app = builder.Build();
 
             // Configuração do pipeline de middleware
+            app.UseDefaultFiles(); // Movido para antes de UseStaticFiles
             app.UseStaticFiles();
-            app.UseDefaultFiles();
             app.UseRouting();
             app.UseCors("CorsPolicy");
             
-            // Mapeamento dos endpoints
+            // Mapeamento dos endpoints (mantido UseEndpoints como estava)
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapHub<SensorDataHub>("/sensordatahub");
@@ -47,10 +47,10 @@ namespace MeassuringAppWebPage
             if (app.Environment.IsDevelopment())
             {
                 app.Urls.Clear();
-                app.Urls.Add("http://20.206.176.9");
+                app.Urls.Add("http://20.206.176.9:5000"); // Adicionada porta explícita
             }
 
             app.Run();
         }
     }
-}
+}   
